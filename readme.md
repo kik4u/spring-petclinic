@@ -1,4 +1,4 @@
-![CI-swarm](https://github.com/kik4u/spring-petclinic/workflows/CI-swarm/badge.svg)
+![CI-swarm](https://github.com/secobau/spring-petclinic/workflows/CI-swarm/badge.svg)
 
 # Spring PetClinic Sample Application 
 Deploy this sample application to Pivotal Web Services:
