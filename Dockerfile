@@ -21,6 +21,7 @@ COPY --from=clone /$dir_old/$project .
 RUN mvn install && mv target/$project-*.jar target/$project.jar
 
 ###
+###
 
 FROM openjdk:jre-alpine AS production
 
