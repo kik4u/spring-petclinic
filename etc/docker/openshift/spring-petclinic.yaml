@@ -13,7 +13,7 @@ spec:
     spec:
       containers: 
       -
-        image: kik4u/spring-petclinic:latest
+        image: kik4u/spring-petclinic:1.4
         name: spring-petclinic-container
         ports:
         -
